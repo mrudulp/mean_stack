@@ -1,0 +1,15 @@
+{
+	"scripts": {
+		"test": "mocha test.js",
+		"watch": "gulp watch"
+	},
+	"dependencies": {
+		"underscore": "1.8.3",
+		"moongoose": "0.0.5"
+	},
+	"devDependencies":{
+		"mocha": "3.4.2",
+		"gulp":"3.9.1",
+		"gulp-mocha": "4.3.1"
+	}
+}
